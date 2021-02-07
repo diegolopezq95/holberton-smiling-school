@@ -186,6 +186,12 @@ body {
   background-color: var(--color-white);
 }
 
+.bodypricing {
+  font-family: var(--font-family-base);
+  font-weight: var(--font-weight-regular);
+  background-color: var(--color-preto);
+}
+
 /**********1. LAYOUT**********/
 /*  Header */
 .header {
