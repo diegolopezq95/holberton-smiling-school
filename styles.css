@@ -247,13 +247,13 @@ body {
   letter-spacing: 0.2rem;
 }
 
-/*                    <!-- what's smile -->                    */
+/* what's smile */
 .playbutton {
   width: 80px;
   height: 80px;
 }
 
-/*                     <!-- Learn from the pros -->                     */
+/* Learn from the pros */
 .fwLight {
   font-weight: var(--font-weight-light);
 }
@@ -282,7 +282,7 @@ body {
   background-size: 100% 100%;
 }
 
-/*                     <!-- video Carousel -->                     */
+/* Video Carousel */
 #carousel_videos .carousel-control-next-icon {
   width: 40px;
   height: 60px;
@@ -299,7 +299,7 @@ body {
   background-size: 100% 100%;
 }
 
-/*                     <!-- Row of Smiles -->                     */
+/* Smiles */
 .smiles {
   background-color: var(--color-preto);
 }
@@ -308,7 +308,7 @@ body {
   width: 45px;
 }
 
-/*                    <!-- Go pro -->                    */
+/* Go pro  */
 .gopro {
   font-size: 3rem;
 }
@@ -329,15 +329,18 @@ body {
   font-size: 3rem;
 }
 
-/*                  <!-- F.A.Q. -->                   */
+/* F.A.Q. */
 .faq {
   font-size: 3rem;
 }
 
-/*                     <!--Footer-->                     */
+/* Footer */
 .footerhomepage {
   background-color: var(--color-preto);
 }
+.footerpricing {
+    background-color: var(--color-preto);
+  }
 .smilef1 {
   height: 6%;
   width: 6%;
@@ -354,7 +357,7 @@ body {
   background-color: white !important;
 }
 
-/*                     Use in almost two sections                     */
+/* Use in almost two sections */
 .noBoldPurple {
   color: var(--color-moradito);
 }
@@ -389,7 +392,7 @@ body {
   width: 20%;
 }
 
-/*                    <!-- search filter -->                    */
+/* search filter */
 input[type="search"] {
   font-family: "Font Awesome 5 Brands" !important;
   color: black !important;
